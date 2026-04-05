@@ -120,6 +120,9 @@ Provides aggregated insights:
 ```
 financial-records-backend/
 ├── database/
+│   └── finance_dashboard (3).sql
+|   └── finance_dashboard.sql
+|
 ├── seeders/
 │   └── seedAdmin.js
 │
