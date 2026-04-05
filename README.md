@@ -184,7 +184,7 @@ financial-records-backend/
 * Password Hashing: bcryptjs
 * Architecture: Role-Based Access Control (RBAC)
 * Environment Management: dotenv
-* 
+  
 ---
 
 # ⚙️ Setup Guide (Step-by-Step)
